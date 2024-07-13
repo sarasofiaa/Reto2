@@ -1,0 +1,61 @@
+{
+	"items": [
+		{
+			"id": 1,
+			"name": "Spider-Man: No Way Home",
+			"description": "Después de que Mysterio desvelara la identidad de Spider-Man a todo el mundo en Lejos de casa, Peter Parker (Tom Holland), desesperado por volver a la normalidad y recuperar su anterior vida, pide ayuda a Doctor Strange para enmendar tal acción. El Hechicero Supremo de Marvel accede a ayudar al joven Hombre Araña, sin embargo, algo sale mal y el multiverso se convierte en la mayor amenaza hasta el momento.",
+			"image": "https://es.web.img3.acsta.net/c_310_420/pictures/21/12/01/12/07/0243323.jpg",
+			"rating": 4,
+			"genres": [
+				"Comedia",
+				"Accion"
+			],
+			"inTheaters": false
+		},
+		{
+			"id": 2,
+			"name": "Avengers: Endgame",
+			"description": "Después de los devastadores eventos ocurridos en Vengadores: Infinity War, el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Tras la derrota, las cosas no pintan bien para los Vengadores.",
+			"image": "https://es.web.img3.acsta.net/c_310_420/pictures/19/03/26/17/22/0896830.jpg",
+			"rating": 5,
+			"genres": [
+				"Accion"
+			],
+			"inTheaters": false
+		},
+		{
+			"id": 3,
+			"name": "Guardians of the Galaxy",
+			"description": "La película está basada en un conocido cómic de Marvel en el que un grupo de extravagantes ex-presidiarios formarán un equipo llamado los Guardianes de la Galaxia. Estos personajes son: Peter Quill, un piloto cazarrecompensas mitad alien-mitad humano; Rocket, un mapache armado con un rifle; Groot, un árbol humanoide; Gamora, una humana de color verde y Drax the Destroyer.",
+			"image": "https://es.web.img3.acsta.net/c_310_420/pictures/14/06/17/14/04/353959.jpg",
+			"rating": 4,
+			"genres": [
+				"Accion",
+				"Comedia"
+			],
+			"inTheaters": false
+		},
+		{
+			"id": 4,
+			"name": "Black Panther",
+			"description": "T'Challa (Chadwick Boseman) regresa a su hogar en la apartada nación africana de Wakanda para servir como líder de su país. Tras suceder a su padre en el trono, pasa a convertirse en Pantera Negra, una sigilosa criatura de la noche, con agudos sentidos felinos y otras habilidades como súper fuerza e inteligencia, agilidad, estrategia o maestro del combate sin armas.",
+			"image": "https://es.web.img3.acsta.net/c_310_420/pictures/17/12/11/16/27/3406097.jpg",
+			"rating": 4,
+			"genres": [
+				"Accion"
+			],
+			"inTheaters": false
+		},
+		{
+			"id": 5,
+			"name": "Doctor Strange",
+			"description": "La vida del Dr. Stephen Strange cambia para siempre tras un accidente automovilístico que le deja muy malheridas sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar esperanza y una cura en un lugar impensable: una comunidad aislada en Nepal llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. ",
+			"image": "https://pics.filmaffinity.com/doctor_strange-883697036-mmed.jpg",
+			"rating": 4,
+			"genres": [
+				"Accion"
+			],
+			"inTheaters": false
+		}
+	]
+}
